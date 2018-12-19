@@ -9,7 +9,11 @@ class Ideone
 	{
 		// your code goes here
 		int i;
-		for(i=0;i<=1;i++)
+		Scanner	sc = new Scanner(System.in);		
+
+	 int num = sc.nextInt();
+		
+		for(i=1;i<=num;i++)
 		{
 			System.out.println("hello");
 		}
