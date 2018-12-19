@@ -15,7 +15,7 @@ class Ideone
 		
 		for(i=1;i<=num;i++)
 		{
-			System.out.println("hello");
+			System.out.println("hello \n");
 		}
 
 
