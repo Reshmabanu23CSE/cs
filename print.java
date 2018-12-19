@@ -9,9 +9,9 @@ class Ideone
 	{
 		// your code goes here
 		int i;
-		Scanner	sc = new Scanner(System.in);		
+		Scanner	s = new Scanner(System.in);		
 
-	 int num = sc.nextInt();
+	 int num = s.nextInt();
 		
 		for(i=1;i<=num;i++)
 		{
